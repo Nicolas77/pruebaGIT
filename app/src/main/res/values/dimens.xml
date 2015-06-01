@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="anchoZ">200dp</dimen>
+    <dimen name="altoZ">150dp</dimen>
+    <dimen name="anchoB">280dp</dimen>
+    <dimen name="largoB">40dp</dimen>
+    <dimen name="margen">15dp</dimen>
+    <dimen name="tam_texto">20sp</dimen>
+    <dimen name="tam_texto_login_form">17sp</dimen>
+    <dimen name="tam_texto_subtitle">15sp</dimen>
+
+    <dimen name="anchoI">40dp</dimen>
+    <dimen name="altoI">40dp</dimen>
+
+
+    <dimen name="anchoF">65dp</dimen>
+    <dimen name="altoF">65dp</dimen>
+
+    <dimen name="altoFotos">80dp</dimen>
+</resources>
